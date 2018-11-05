@@ -13,6 +13,10 @@
 @media only screen and (max-width: 1023px){
     body {font-size: 18px;}
     section {padding: 60px 0;}
+    .main-nav li a {
+        display: inline-block;
+        margin-left: 20px;
+    }
     .long-copy {
         width: 80%;
         margin-left: 10%;
@@ -42,11 +46,7 @@
     }
     .main-nav { display: none;}
     .mobile-navi-icon {display: inline-block; }
-    .main-nav {
-        float: left;
-        margin-top: 30px;
-        margin-left: 25px;
-    }
+
     .main-nav li {
         display: block;
     }
