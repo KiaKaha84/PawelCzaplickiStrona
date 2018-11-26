@@ -4,6 +4,27 @@
     <list default="true" id="0e0c4d2e-1eac-4b3a-8e01-1c819d1d7433" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/hero1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/images/hero1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/marek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/monika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/robert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/images/robert2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/hero.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="159" column="49" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
-              <folding>
-                <element signature="e#14114#14120#0" expanded="true" />
-                <element signature="e#16470#16476#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="45" column="79" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -32,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1198">
+            <state relative-caret-position="6120">
               <caret line="360" column="12" selection-start-line="360" selection-start-column="12" selection-end-line="360" selection-end-column="12" />
             </state>
           </provider>
@@ -61,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -145,16 +162,16 @@
       <workItem from="1542275258823" duration="44000" />
       <workItem from="1542967871836" duration="3156000" />
       <workItem from="1542973296365" duration="599000" />
-      <workItem from="1543218826131" duration="3891000" />
+      <workItem from="1543218826131" duration="4490000" />
+      <workItem from="1543226670172" duration="1277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39923000" />
+    <option name="totallyTimeSpent" value="41799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18377976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -193,21 +210,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1198">
-          <caret line="360" column="12" selection-start-line="360" selection-start-column="12" selection-end-line="360" selection-end-column="12" />
+        <state relative-caret-position="319">
+          <caret line="45" column="79" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="159" column="49" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
-          <folding>
-            <element signature="e#14114#14120#0" expanded="true" />
-            <element signature="e#16470#16476#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6120">
+          <caret line="360" column="12" selection-start-line="360" selection-start-column="12" selection-end-line="360" selection-end-column="12" />
         </state>
       </provider>
     </entry>
